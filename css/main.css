@@ -1,0 +1,295 @@
+html, body {
+    height:100%;
+}
+
+body {
+	position: relative;
+}
+
+.body-wrapper {
+    min-height: 100%;
+    padding-bottom: 50px;
+}
+
+h1, h2, h3 {
+    font-family: 'Merienda One', Helvetic, sans-serif;
+}
+
+h3 {
+    text-align:center;
+    white-space: nowrap;
+}
+
+hr {
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+#about  p{
+    font-size:18px;
+    text-align: justify;
+}
+
+footer {
+	background-color:white;
+	opacity:0.95;
+    position: absolute;
+	width:100%;
+	position: relative;
+	margin-top: -25px; /* negative value of footer height */
+	height: 50px;
+	clear:both;
+}
+
+footer  p {
+	padding:0px;
+
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+#navbar {
+    margin-top:10px;
+    position:fixed;
+    top:0px;
+}
+
+@media ( max-width : 992px) {
+    #navbar {
+        position:relative;
+        text-align:center;
+    }
+}
+
+.profile {
+    margin: 0 auto;
+}
+
+.nav>li>a {
+	padding:5px 10px;
+}
+
+ul.nav-tabs{
+	width: 160px;
+	margin-top: 20px;
+	border: 0px;
+}
+
+ul.nav-tabs li{
+    margin: 0;
+}
+ul.nav-tabs li:first-child{
+    border-top: none;
+}
+
+ul.nav-tabs li a{
+    margin: 0;
+    padding: 8px 16px;
+    border-radius: 0;
+}
+
+ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover{
+    color: #fff;
+    background: #0088cc;
+    border-radius: 4px;
+}
+
+ul.nav-tabs.affix{
+    top: 30px; /* Set the top position of pinned element */
+}
+
+a {
+  color: #448;
+}
+
+.bs-docs-sidebar.affix {
+  position: static;
+}
+
+/* Extra Small Devices, Phones */ 
+@media ( min-width : 768px) {
+	.bs-docs-sidebar {
+		padding-left: 20px;
+	}
+}
+@media ( max-width : 768px) {
+	.affix {
+		position: static !important;
+	}
+}
+
+/* First level of nav */
+.bs-docs-sidenav {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* All levels of nav */
+.bs-docs-sidebar .nav {
+  display: block;
+  padding: 10px 10px;
+  font-size: 18px;
+  font-weight: 500;
+}
+.bs-docs-sidebar .nav > li > a {
+  display: block;
+  padding: 4px 10px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #a00;
+}
+.bs-docs-sidebar .nav > li > a:hover,
+.bs-docs-sidebar .nav > li > a:focus {
+  padding-left: 9px;
+  color: #563d7c;
+  text-decoration: none;
+  background-color: transparent;
+  border-left: 1px solid #563d7c;
+}
+.bs-docs-sidebar .nav > .active > a,
+.bs-docs-sidebar .nav > .active:hover > a,
+.bs-docs-sidebar .nav > .active:focus > a {
+  padding-left: 18px;
+  font-weight: bold;
+  color: #563d7c;
+  background-color: transparent;
+  border-left: 2px solid #563d7c;
+}
+
+/* Nav: second level (shown on .active) */
+.bs-docs-sidebar .nav .nav {
+  display: none; /* Hide by default, but at >768px, show it */
+  padding-bottom: 10px;
+}
+.bs-docs-sidebar .nav .nav > li > a {
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 30px;
+  font-size: 16px;
+  font-weight: normal;
+}
+.bs-docs-sidebar .nav .nav > li > a:hover,
+.bs-docs-sidebar .nav .nav > li > a:focus {
+  padding-left: 29px;
+}
+.bs-docs-sidebar .nav .nav > .active > a,
+.bs-docs-sidebar .nav .nav > .active:hover > a,
+.bs-docs-sidebar .nav .nav > .active:focus > a {
+  padding-left: 28px;
+  font-weight: 500;
+}
+
+/* Show and affix the side nav when space allows it */
+@media (min-width: 992px) {
+  .bs-docs-sidebar .nav > .active > ul {
+    display: block;
+  }
+  /* Widen the fixed sidebar */
+  .bs-docs-sidebar.affix,
+  .bs-docs-sidebar.affix-bottom {
+    width: 213px;
+  }
+  .bs-docs-sidebar.affix {
+    position: fixed; /* Undo the static from mobile first approach */
+    top: 20px;
+  }
+  .bs-docs-sidebar.affix-bottom {
+    position: absolute; /* Undo the static from mobile first approach */
+  }
+  .bs-docs-sidebar.affix-bottom .bs-docs-sidenav,
+  .bs-docs-sidebar.affix .bs-docs-sidenav {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+@media (min-width: 1200px) {
+  /* Widen the fixed sidebar again */
+  .bs-docs-sidebar.affix-bottom,
+  .bs-docs-sidebar.affix {
+    width: 263px;
+  }
+}
+
+.bs-docs-section {
+  margin-bottom: 30px;
+  margin-top: 0px;  
+}
+.bs-docs-section:last-child {
+  margin-bottom: 0;
+}
+
+div.footnote {
+  text-indent: -1.3em;
+  margin-left: 1.3em;
+  margin-bottom: 0.2em;
+}
+
+
+div.pagebreak {
+  page-break-bef"WebContent/css/main.css"ore: always;
+}
+
+.hangindent {
+  text-indent: -2em;
+  margin-left: 2em;
+}
+
+div.csl-left-margin {
+  width:2em;
+  float:left;
+  text-indent:1em;
+  padding:0.4em 0px 0.4em 0em;
+}
+
+div.dateindent div.csl-left-margin {
+  width:3em;
+  float:left;
+  text-indent:1em;
+  padding:0.4em 0px 0.4em 0em;
+}
+
+div.dateindent div.csl-block {
+  font-weight: bold;
+}
+
+div.csl-right-inline {
+  margin-left:2em;
+  padding:0.4em 0.4em 0.4em 1em;
+}
+
+div.dateindent div.csl-right-inline {
+  margin-left:3em;
+  padding:0.4em 0.4em 0.4em 1em;
+}
+
+div.csl-indent {
+  margin-top: 0.5em;
+  margin-left: 2em;
+  padding-bottom: 0.2em;
+  padding-left: 0.5em;
+  border-left: 5px solid #ccc;
+}
+
+div.heading {
+  border-top: 5px solid #ccc;
+  border-bottom: 5px solid #ccc;
+}
+
+div.csl-bib-body {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
+}
+
+div.csl-entry {
+  margin-left: 4em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+.csl-block {
+	float: left;
+    padding-right: 4px;
+}

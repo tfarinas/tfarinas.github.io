@@ -1,0 +1,76 @@
+[
+  {
+    "URL": "http://iste-editions.fr/products/diversite-et-fonctions-de-systemes-ecologiques-marins",
+    "author": [
+      {
+        "family": "Hernández-Fariñas",
+        "given": "Tania"
+      },
+      {
+        "family": "Bacher",
+        "given": "Cédric"
+      }
+    ],
+    "container-title": "Diversité et fonctions de systèmes \u003cspan class=\"nocase\"\u003eé\u003c/span\u003ecologiques marins",
+    "editor": [
+      {
+        "family": "Monaco",
+        "given": "André"
+      },
+      {
+        "family": "Prouzet",
+        "given": "Patrick"
+      }
+    ],
+    "id": "Book1_FR",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "43-86",
+    "publisher": "ISTE",
+    "title": "Biodiversité du phytoplancton : Réponses aux changements environnementaux dans les zones côtières",
+    "title-short": "Biodiversité du phytoplancton",
+    "type": "chapter"
+  },
+  {
+    "URL": "http://www.iste.co.uk/index.php?f=a&ACTION=View&id=893",
+    "author": [
+      {
+        "family": "Hernández-Fariñas",
+        "given": "Tania"
+      },
+      {
+        "family": "Bacher",
+        "given": "Cédric"
+      }
+    ],
+    "container-title": "Marine ecosystems: Diversity and functions",
+    "editor": [
+      {
+        "family": "Monaco",
+        "given": "André"
+      },
+      {
+        "family": "Prouzet",
+        "given": "Patrick"
+      }
+    ],
+    "id": "Book1_EN",
+    "issued": {
+      "date-parts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "25-80",
+    "publisher": "ISTE",
+    "title": "Biodiversity of phytoplankton: Responses to environmental changes in coastal zones",
+    "title-short": "Biodiversity of phytoplankton",
+    "type": "chapter"
+  }
+]

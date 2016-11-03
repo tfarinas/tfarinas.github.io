@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="thf-app">
+<head>
+
+	<title>Tania Hernández Fariñas</title>
+	
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<link rel="stylesheet" href="scripts/vendor/jquery/css/jquery-ui-1.11.4.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+    <link href='http://fonts.googleapis.com/css?family=Merienda+One' rel='stylesheet' type='text/css'>
+	
+	<!-- Javascript dependencies -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="scripts/vendor/angularjs/angular.js"></script>
+	<script type="text/javascript" src="scripts/vendor/angularjs/angular-sanitize.js"></script>
+	<script type="text/javascript" src="scripts/vendor/angularjs/angular-route.js"></script>
+	<script type="text/javascript" src="scripts/vendor/angularjs/angular-resource.js"></script>
+	<script type="text/javascript" src="scripts/vendor/angularjs/angular-strap.js"></script>
+	<script type="text/javascript" src="scripts/vendor/citeproc/xmldom.js"></script>
+	<script type="text/javascript" src="scripts/vendor/citeproc/citeproc.js"></script>
+	
+	<!-- Application -->
+	<link rel="stylesheet" href="css/main.css">
+	<script type="text/javascript" src="app/app.js"></script>
+
+</head>
+
+<body ng-controller="MainCtrl" data-spy="scroll" data-target="#navbar">
+	
+	<div class="container body-wrapper">
+		
+        <div class="row">
+		
+			<!-- Profile -->
+			<div id="navbar" class="col-md-3 bs-sidebar" role="complementary" >
+				<img src="assets/profile.jpg" alt="" class="profile img-circle img-responsive">
+	      		<h3>Tania Hernández Fariñas</h3>
+	      		
+	      		<!-- Contact -->	      		
+	      		<span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>
+	      		<a href="mailto:tfarinas.hernandez@gmail.com">Contact</a>
+	      		<br>
+	      		
+	      		<!-- Curriculum vitae -->
+	      		<span class="glyphicon glyphicon-file" aria-hidden="true"></span>
+	      		<a href="resources/cv/CV_Tania Hernández Fariñas.pdf" target="_blank">Curriculum vitae</a>
+	      		<br>
+	      		
+	      		<!-- ResearchGate -->
+	      		<a title="Tania Hernández Fariñas" href="http://www.researchgate.net/profile/Tania_Farinas/" target="_blank">
+	      			<img src="http://www.researchgate.net/images/public/profile_share_badge.png" height="40" style="margin-top:5px;" alt="Tania Hernández Fariñas" />
+	      		</a>
+	      		<br>
+	      		
+	      		<!-- LinkedIn -->
+	      		<a href="https://www.linkedin.com/pub/tania-hernández-fariñas/43/5b7/7a8/en" target="_blank" >
+      				<img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" style="margin-top:5px;" alt="View Tania Hernández Fariñas's profile on LinkedIn">
+    			</a>
+	      		
+	      		<hr>
+	      		
+	      		<!-- Navbar -->
+	      		<div bs-scrollspy-list="">
+	      			 <ul class="nav nav-pills nav-stacked bs-sidenav" data-offset-top="-100" >
+		      			<li class="active"><a ng-href="#about">About</a></li>
+		      			<li><a ng-href="#bio">Bio</a></li>
+		      			<li><a ng-href="#publications">Publications</a></li>
+		      			<li><a ng-href="#conferences">Conferences & Workshops</a></li>
+		      			<li><a ng-href="#awards">Awards & Honors</a></li>
+		      		</ul>
+		      	</div>
+	      		
+	      	</div>
+	      
+	      	<!-- Content -->
+			<div class="col-md-8" style="float:right;top:20px;" role="main">
+		
+				<!-- About -->
+				<!-- ===== -->
+				<div id="about" class="bs-docs-section">
+					<h1>About</h1>
+					<hr>
+		
+					<p class="lead">I am a marine biologist, currently working as postdoctoral research associate for the <a href="http://www.univ-nantes.fr/" target="_blank">University of Nantes</a>, at <a href="http://www.mms.univ-nantes.fr/00359458/1/fiche___pagelibre/&RH=MMS_FR1" target="_blank">Mer Molécules Santé</a> research laboratory, France. </p>
+				
+					<p class="lead">I have been investigating various components of the marine ecosystem including phytoplankton, phytobenthos, fish communities, shrimp fisheries and coral reefs.</p>
+
+					<p class="lead">I like to combine programming, statistical analysis and scientific reasoning in marine ecology, and seek to strengthen the understanding of ecosystems functioning, especially by analyzing large datasets including long-term time series. I have also a particular interest in developing new methodological frameworks to characterize ecological niches and environmental impacts on ecosystems.</p>
+					
+				</div>	
+
+				<!-- Bio -->
+				<!-- === -->
+				<div id="bio" class="bs-docs-section">
+					<h1>Bio</h1>
+					<hr>
+					
+					<ul>
+						<li><b>2016 to date</b> Postdoctoral Researcher, <a href="http://www.mms.univ-nantes.fr/00359458/1/fiche___pagelibre/&RH=MMS_FR1" target="_blank">Mer Molécules Santé</a> research laboratory, <a href="http://www.univ-nantes.fr/" target="_blank">University of Nantes</a>, France.</li>
+						<li><b>2015–2016</b> Postdoctoral Researcher, <a href="http://www.sb-roscoff.fr" target="_blank">Marine Biology Station of Roscoff</a>, <a href="http://www.upmc.fr/" target="_blank">University Pierre et Marie Curie of Paris (UPMC)</a>, and <a href="http://wwz.ifremer.fr/" target="_blank">Ifremer</a>,  France.</li>
+						<li><b>2011–2014</b> Ph.D, Biological oceanography with Specialization in Coastal Ecology, <a href="http://wwz.ifremer.fr/" target="_blank">Ifremer</a> and <a href="http://www.univ-nantes.fr/" target="_blank">University of Nantes</a>, France.</li>
+						<li><b>2010–2011</b> Master, Environmental Engineering, Specialization in Resources and Aquatic Ecosystems, <a href="http://www.agrocampus-ouest.fr" target="_blank">University Agrocampus Ouest</a>, France.</li>
+						<li><b>2008–2010</b> Marine Biologist, Fisheries Research Center (CIP), Cuba.</li>
+						<li><b>2003–2008</b> Master, Biological Sciences, specialization in Marine Ecology, <a href="http://www.uh.cu/" target="_blank">University of Havana</a>, Cuba.</li>
+					</ul>
+				</div>
+					
+				<!-- Publications -->
+				<!-- ============ -->
+				<div id="publications" class="bs-docs-section">
+				
+					<h1>Publications</h1>
+					<hr>
+					
+					<!-- Journal Articles -->
+					<h2><small>Journal articles</small></h2>
+					
+					<div id="articles" data-csl="ecology-letters"></div>
+				
+					<!-- Book chapters -->
+					<h2><small>Book chapters</small></h2>
+					
+					<div id="chapters" data-csl="ecology-letters"></div>
+				</div>
+				
+				<!-- Conferences & Workshops -->
+				<!-- ======================= -->
+				<div id="conferences" class="bs-docs-section">
+					<h1>Conferences and Workshops</h1>
+					<hr>
+	
+					<ul>
+						<li><b>2013</b> ECSA 53: Estuaries and coastal areas in times of intense change. Shanghai, China. <em>Temporal changes in the phytoplankton community along the French coast of the eastern English Channel and the southern Bight of the North Sea.</em></li>
+						<li><b>2012</b> Working Group on Phytoplankton and Microbial Ecology - Annual Meeting. International Council for the Exploration of the Sea (ICES/CIEM). Málaga, Spain.</li>
+						<li><b>2012</b> Time Series Analysis in marine science and applications for industry. Brest, France.</li>
+						<li><b>2010</b> XI Workshop COI-AECID-IEO, Taxonomy of harmful phytoplankton. Vigo, Spain</li>
+						<li><b>2010</b> XIII Conference COLACMAR, VIII Congress of Marine Science, Mar Cuba. La Habana, Cuba. Spatial and temporal dynamic of potentially toxic dinoflagellates associated to the ciguatera intoxication. Structure of phytoplankton communities in the Gulf of Guacanayabo, Cuba. (Poster)</li>
+					</ul>
+				</div>
+				
+				<!-- Awards & Honors -->
+				<!-- =============== -->
+				<div id="awards" class="bs-docs-section">
+					<h1>Awards and Honors</h1>
+					<hr>
+					
+					<ul>
+						<li><b>2011–2014</b> Fondation de France Grant. Ph.D thesis.</li>
+						<li><b>2010</b> COI-AECID-IEO Grant (Spain). <a href="http://hab.ioc-unesco.org/index.php?option=com_oe&task=viewEventRecord&eventID=698" target="_blank">Workshop on Taxonomy of Harmful phytoplankton</a> at <a href="http://www.vi.ieo.es/" target="_blank">Oceanographic Center of Vigo</a>, Spain.</li>
+					</ul>
+				</div>
+				
+			</div>
+		
+		</div>
+        
+	</div>
+    
+    <footer>
+        <hr>
+        <p class="text-center">&copy; Tania Hernández Fariñas</p>
+    </footer>
+    
+</body>
+
+</html>
