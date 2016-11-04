@@ -236,53 +236,6 @@
     "volume": "11"
   },
   {
-    "URL": "http://www.oceandocs.org/handle/1834/3525",
-    "author": [
-      {
-        "family": "Concepción-Villanueva",
-        "given": "Joel"
-      },
-      {
-        "family": "Arencibia-Carballo",
-        "given": "Gustavo"
-      },
-      {
-        "family": "Hondal",
-        "given": "O Carballo"
-      },
-      {
-        "family": "Sánchez",
-        "given": "Fernando"
-      },
-      {
-        "family": "Capetillo-Piñar",
-        "given": "Norberto"
-      },
-      {
-        "family": "Hernández-Fariñas",
-        "given": "Tania"
-      },
-      {
-        "family": "Molleda",
-        "given": "M Isla"
-      },
-      {
-        "family": "Almeidal",
-        "given": "Raú"
-      }
-    ],
-    "id": "concepcion2009estado",
-    "issued": {
-      "date-parts": [
-        [
-          2009
-        ]
-      ]
-    },
-    "title": "Estado ambiental de la zona costera manzanillo-desembocadura del río cauto",
-    "type": "article-journal"
-  },
-  {
     "author": [
       {
         "family": "Hernández-Fariñas",
