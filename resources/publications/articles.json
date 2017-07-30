@@ -1,34 +1,39 @@
 [
   {
+    "DOI": "10.1111/jpy.12564",
+    "ISSN": "1529-8817",
+    "URL": "http://dx.doi.org/10.1111/jpy.12564",
     "author": [
       {
-        "family": "Hernández-Fariñas",
+        "family": "Hern├índez Fari├▒as",
         "given": "Tania"
       },
       {
         "family": "Ribeiro",
-        "given": "L."
+        "given": "Louren├ºo"
       },
       {
         "family": "Soudant",
-        "given": "D."
+        "given": "Dominique"
       },
       {
         "family": "Belin",
-        "given": "C."
+        "given": "Catherine"
       },
       {
-        "family": "Bacher",
-        "given": "C."
+        "family": "Lampert",
+        "given": "Luis"
       },
       {
-        "family": "Barillé",
-        "given": "L."
+        "family": "Barill├®",
+        "given": "Laurent"
       }
     ],
-    "container-title": "Submitted to Journal of Phycology",
-    "id": "HernandezFarinas201x",
-    "title": "Contribution of benthic microalgae life-forms to temporal variation of phytoplankton assemblages in a macrotidal system",
+    "container-title": "Journal of Phycology",
+    "id": "JPY:JPY12564",
+    "keyword": "Co-inertia, dynamic linear models, epipelon, epiphyton, haptobenthos, microphytobenthos growth forms, seasonality, tychoplankton",
+    "page": "n/a-n/a",
+    "title": "Contribution of benthic microalgae to the temporal variation in phytoplankton assemblages in a macrotidal system",
     "type": "article-journal"
   },
   {
@@ -48,8 +53,8 @@
         "given": "M."
       },
       {
-        "family": "Hernández-Fariñas",
-        "given": "Tania"
+        "family": "Fariñas",
+        "given": "Tania Hernández"
       },
       {
         "family": "Pineau-Guillou",
@@ -97,8 +102,8 @@
         "given": "Bérengère"
       },
       {
-        "family": "Hernández-Fariñas",
-        "given": "Tania"
+        "family": "Fariñas",
+        "given": "Tania Hernández"
       },
       {
         "family": "Gendre",
@@ -135,8 +140,8 @@
     "URL": "http://dx.doi.org/10.1016/j.ecss.2015.03.010",
     "author": [
       {
-        "family": "Hernández-Fariñas",
-        "given": "Tania"
+        "family": "Fariñas",
+        "given": "Tania Hernández"
       },
       {
         "family": "Bacher",
@@ -176,8 +181,8 @@
     "URL": "http://dx.doi.org/10.1093/icesjms/fst192",
     "author": [
       {
-        "family": "Hernández-Fariñas",
-        "given": "Tania"
+        "family": "Fariñas",
+        "given": "Tania Hernández"
       },
       {
         "family": "Soudant",
@@ -229,8 +234,8 @@
         "given": "Gilma"
       },
       {
-        "family": "Hernández-Fariñas",
-        "given": "Tania"
+        "family": "Fariñas",
+        "given": "Tania Hernández"
       }
     ],
     "container-title": "REDVET, Revista electrónica de Veterinaria",
@@ -271,8 +276,8 @@
         "given": "S."
       },
       {
-        "family": "Hernández-Fariñas",
-        "given": "Tania"
+        "family": "Fariñas",
+        "given": "Tania Hernández"
       },
       {
         "family": "Guilloux",
