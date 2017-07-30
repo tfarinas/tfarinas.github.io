@@ -270,7 +270,10 @@ angular.module('thf-app',
                     var bibResult = citeproc.makeBibliography();
                     bibResult = bibResult[1].join('\n');
                     bibResult = bibResult.replace(/â€“/g, '–');
-                    bibResult = bibResult.replace(/Hernández-Fariñas, T./g, "<b>Hernández-Fariñas, T.</b>");
+                    //highlights
+                    bibResult = bibResult.replace(/Hernández Fariñas, T./g, "<b>Hernández Fariñas, T.</b>");
+                    bibResult = bibResult.replace(/Hernández Fariñas, T./g, "<b>Hernández Fariñas, T.</b>");
+                    bibResult = bibResult.replace(/Fariñas, T.H./g, "<b>Fariñas, T.H.</b>");
                     
                     for(var key in publications){
                         var publication = publications[key];
