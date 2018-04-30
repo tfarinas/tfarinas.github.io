@@ -1,4 +1,52 @@
 [
+    {
+    "author": [
+      {
+        "family": "Simon",
+        "given": "N."
+      },
+      {
+        "family": "Manno",
+        "given": "M."
+      },
+      {
+        "family": "Rigaut-Jalabert",
+        "given": "F."
+      },
+      {
+        "family": "Romac",
+        "given": "S."
+      },
+      {
+        "family": "Audic",
+        "given": "S."
+      },
+      {
+        "family": "Hernández Fariñas",
+        "given": "Tania"
+      },
+      {
+        "family": "Guilloux",
+        "given": "L."
+      },
+      {
+        "family": "Siano",
+        "given": "R."
+      },
+      {
+        "family": "Cariou",
+        "given": "T."
+      },
+      {
+        "family": "Not",
+        "given": "F."
+      }
+    ],
+    "container-title": "In preparation",
+    "id": "simon",
+    "title": "Annual patterns of plankton diversity revealed using molecular metabarcoding",
+    "type": "article-journal"
+  },
   {
     "DOI": "10.1111/jpy.12564",
     "ISSN": "1529-8817",
@@ -31,6 +79,14 @@
     ],
     "container-title": "Journal of Phycology",
     "id": "JPY:JPY12564",
+	"issued": {
+      "date-parts": [
+        [
+          2017,
+          10
+        ]
+      ]
+    },
     "keyword": "Co-inertia, dynamic linear models, epipelon, epiphyton, haptobenthos, microphytobenthos growth forms, seasonality, tychoplankton",
     "title": "Contribution of benthic microalgae to the temporal variation in phytoplankton assemblages in a macrotidal system",
     "type": "article-journal"
@@ -251,53 +307,5 @@
     "title": "Disponibilidad alimentaria del camarón rosado (farfantepenaeus notialis), en zonas de cría del golfo de ana maría, sureste de cuba",
     "type": "article-journal",
     "volume": "11"
-  },
-  {
-    "author": [
-      {
-        "family": "Simon",
-        "given": "N."
-      },
-      {
-        "family": "Manno",
-        "given": "M."
-      },
-      {
-        "family": "Rigaut-Jalabert",
-        "given": "F."
-      },
-      {
-        "family": "Romac",
-        "given": "S."
-      },
-      {
-        "family": "Audic",
-        "given": "S."
-      },
-      {
-        "family": "Hernández Fariñas",
-        "given": "Tania"
-      },
-      {
-        "family": "Guilloux",
-        "given": "L."
-      },
-      {
-        "family": "Siano",
-        "given": "R."
-      },
-      {
-        "family": "Cariou",
-        "given": "T."
-      },
-      {
-        "family": "Not",
-        "given": "F."
-      }
-    ],
-    "container-title": "In preparation",
-    "id": "simon",
-    "title": "Annual patterns of plankton diversity revealed using molecular metabarcoding",
-    "type": "article-journal"
   }
 ]

@@ -109,6 +109,15 @@ angular.module('thf-app',
 				 */
 				listChapters: function(){
 					return service.listItems("chapters");
+				},
+				
+				/**
+				 * List reports
+				 * 
+				 * @returns
+				 */
+				listReports: function(){
+					return service.listItems("reports");
 				}
 			}
 			
@@ -268,6 +277,7 @@ angular.module('thf-app',
                     }
                     citeproc.updateItems(itemIDs, true);
                     var bibResult = citeproc.makeBibliography();
+					console.log(bibResult);
                     bibResult = bibResult[1].join('\n');
                     bibResult = bibResult.replace(/â€“/g, '–');
                     //highlights
@@ -277,10 +287,17 @@ angular.module('thf-app',
                     
                     for(var key in publications){
                         var publication = publications[key];
+						console.log(publication);
                         if(angular.isDefined(publication["URL"])){
-                            var title = (element == "articles")? publication["title"] : publication["container-title"];
+							console.log(element);
+							var title = (["articles","reports"].indexOf(element) != -1)? publication["title"] : publication["container-title"];
                             var link = "<a href=\""+publication["URL"]+"\" target=\"_blank\">"+title+"</a>";
                             var parsedTitle = title.replace('<span class="nocase">','').replace('</span>','');
+							console.log({item: bibResult});
+							console.log(parsedTitle);
+							console.log(link);
+							bibResult = bibResult.replace(/’/g, "'");
+							console.log(bibResult);
                             bibResult = bibResult.replace(parsedTitle, link);
                         }
                     }
@@ -302,6 +319,13 @@ angular.module('thf-app',
 			 */
 			PublicationService.listChapters().then(function(data){
 				$scope.render(data, "chapters");
+			})
+			
+			/**
+			 * Resolve reports
+			 */
+			PublicationService.listReports().then(function(data){
+				$scope.render(data, "reports");
 			})
 
 			
