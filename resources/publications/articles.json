@@ -48,6 +48,48 @@
     "type": "article-journal"
   },
   {
+    "DOI": "10.1016/j.hal.2017.12.005",
+    "URL": "https://doi.org/10.1016/j.hal.2017.12.005",
+    "author": [
+      {
+        "family": "Karasiewicz",
+        "given": "Stéphane"
+      },
+      {
+        "family": "Breton",
+        "given": "Elsa"
+      },
+      {
+        "family": "Lefebvre",
+        "given": "Alain"
+      },
+      {
+        "family": "Fariñas",
+        "given": "Tania Hernández"
+      },
+      {
+        "family": "Lefebvre",
+        "given": "Sébastien"
+      }
+    ],
+    "container-title": "Harmful Algae",
+    "id": "Karasiewicz2018",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    },
+    "page": "1-13",
+    "publisher": "Elsevier BV",
+    "title": "Realized niche analysis of phytoplankton communities involving HAB: Phaeocystis spp. as a case study",
+    "title-short": "Realized niche analysis of phytoplankton communities involving HAB",
+    "type": "article-journal",
+    "volume": "72"
+  },
+  {
     "DOI": "10.1111/jpy.12564",
     "ISSN": "1529-8817",
     "URL": "http://dx.doi.org/10.1111/jpy.12564",
