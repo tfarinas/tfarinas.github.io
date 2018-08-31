@@ -1,5 +1,5 @@
 [
-    {
+  {
     "author": [
       {
         "family": "Simon",
@@ -58,7 +58,7 @@
       },
       {
         "family": "Ribeiro",
-        "given": "Louren├ºo"
+        "given": "Lourenço"
       },
       {
         "family": "Soudant",
@@ -79,7 +79,7 @@
     ],
     "container-title": "Journal of Phycology",
     "id": "JPY:JPY12564",
-	"issued": {
+    "issued": {
       "date-parts": [
         [
           2017,
@@ -257,7 +257,7 @@
       },
       {
         "family": "Bacher",
-        "given": "C├®dric"
+        "given": "Cédric"
       }
     ],
     "container-title": "ICES Journal of Marine Science",
