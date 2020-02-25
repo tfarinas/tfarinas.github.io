@@ -281,7 +281,10 @@ angular.module('thf-app',
                     bibResult = bibResult[1].join('\n');
                     bibResult = bibResult.replace(/â€“/g, '–');
                     //highlights
-                    bibResult = bibResult.replace(/Hernández Fariñas, T./g, "<b>Hernández Fariñas, T.</b>");
+					bibResult = bibResult.replace(/(\(\d{4}\))/g, function(match, offset, string){
+						return "(<span style=\"color:#337ab7;font-weight:bold;\">"+match.substr(1,match.length-2)+"</span>)";
+					});
+                    bibResult = bibResult.replace(/Hernández-Fariñas, T./g, "<b>Hernández Fariñas, T.</b>");
                     bibResult = bibResult.replace(/Hernández Fariñas, T./g, "<b>Hernández Fariñas, T.</b>");
                     bibResult = bibResult.replace(/Fariñas, T.H./g, "<b>Fariñas, T.H.</b>");
                     
