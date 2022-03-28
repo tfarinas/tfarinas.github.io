@@ -286,7 +286,7 @@ angular.module('thf-app',
 					});
                     bibResult = bibResult.replace(/Hernández-Fariñas, T./g, "<b>Hernández Fariñas, T.</b>");
                     bibResult = bibResult.replace(/Hernández Fariñas, T./g, "<b>Hernández Fariñas, T.</b>");
-                    bibResult = bibResult.replace(/Fariñas, T.H./g, "<b>Fariñas, T.H.</b>");
+                    bibResult = bibResult.replace(/Fariñas, T.H./g, "<b>Hernández Fariñas, T.</b>");
                     
                     for(var key in publications){
                         var publication = publications[key];
