@@ -1,5 +1,137 @@
 [
   {
+    "DOI": "10.1016/j.ecss.2021.107409",
+    "URL": "https://doi.org/10.1016/j.ecss.2021.107409",
+    "author": [
+      {
+        "family": "Lefran",
+        "given": "Angéline"
+      },
+      {
+        "family": "Hernández-Fariñas",
+        "given": "Tania"
+      },
+      {
+        "family": "Gohin",
+        "given": "Francis"
+      },
+      {
+        "family": "Claquin",
+        "given": "Pascal"
+      }
+    ],
+    "container-title": "Estuarine, Coastal and Shelf Science",
+    "id": "Lefran2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9
+        ]
+      ]
+    },
+    "page": "107409",
+    "publisher": "Elsevier BV",
+    "title": "Decadal trajectories of phytoplankton communities in contrasted estuarine systems in an epicontinental sea",
+    "type": "article-journal",
+    "volume": "258"
+  },
+  {
+    "DOI": "10.3390/jmse8090665",
+    "URL": "https://doi.org/10.3390/jmse8090665",
+    "author": [
+      {
+        "family": "Gohin",
+        "given": "Francis"
+      },
+      {
+        "family": "Bryère",
+        "given": "Philippe"
+      },
+      {
+        "family": "Lefebvre",
+        "given": "Alain"
+      },
+      {
+        "family": "Sauriau",
+        "given": "Pierre-Guy"
+      },
+      {
+        "family": "Savoye",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Vantrepotte",
+        "given": "Vincent"
+      },
+      {
+        "family": "Bozec",
+        "given": "Yann"
+      },
+      {
+        "family": "Cariou",
+        "given": "Thierry"
+      },
+      {
+        "family": "Conan",
+        "given": "Pascal"
+      },
+      {
+        "family": "Coudray",
+        "given": "Sylvain"
+      },
+      {
+        "family": "Courtay",
+        "given": "Gaelle"
+      },
+      {
+        "family": "Françoise",
+        "given": "Sylvaine"
+      },
+      {
+        "family": "Goffart",
+        "given": "Anne"
+      },
+      {
+        "family": "Fariñas",
+        "given": "Tania Hernández"
+      },
+      {
+        "family": "Lemoine",
+        "given": "Maud"
+      },
+      {
+        "family": "Piraud",
+        "given": "Aude"
+      },
+      {
+        "family": "Raimbault",
+        "given": "Patrick"
+      },
+      {
+        "family": "Rétho",
+        "given": "Michael"
+      }
+    ],
+    "container-title": "Journal of Marine Science and Engineering",
+    "id": "Gohin2020",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8
+        ]
+      ]
+    },
+    "page": "665",
+    "publisher": "MDPI AG",
+    "title": "Satellite and in situ monitoring of chl-a, turbidity, and total suspended matter in coastal waters: Experience of the year 2017 along the french coasts",
+    "title-short": "Satellite and in situ monitoring of chl-a, turbidity, and total suspended matter in coastal waters",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
     "DOI": "10.3389/fmars.2020.00036",
     "URL": "https://doi.org/10.3389/fmars.2020.00036",
     "author": [
