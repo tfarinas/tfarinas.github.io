@@ -1,5 +1,136 @@
 [
   {
+    "DOI": "10.1016/j.ecss.2021.107409",
+    "URL": "https://doi.org/10.1016/j.ecss.2021.107409",
+    "author": [
+      {
+        "family": "Lefran",
+        "given": "Angéline"
+      },
+      {
+        "family": "Hernández-Fariñas",
+        "given": "Tania"
+      },
+      {
+        "family": "Gohin",
+        "given": "Francis"
+      },
+      {
+        "family": "Claquin",
+        "given": "Pascal"
+      }
+    ],
+    "container-title": "Estuarine, Coastal and Shelf Science",
+    "id": "Lefran2021",
+    "issued": {
+      "date-parts": [
+        [
+          2021,
+          9
+        ]
+      ]
+    },
+    "page": "107409",
+    "publisher": "Elsevier BV",
+    "title": "Decadal trajectories of phytoplankton communities in contrasted estuarine systems in an epicontinental sea",
+    "type": "article-journal",
+    "volume": "258"
+  },
+  {
+    "DOI": "10.3390/jmse8090665",
+    "URL": "https://doi.org/10.3390/jmse8090665",
+    "author": [
+      {
+        "family": "Gohin",
+        "given": "Francis"
+      },
+      {
+        "family": "Bryère",
+        "given": "Philippe"
+      },
+      {
+        "family": "Lefebvre",
+        "given": "Alain"
+      },
+      {
+        "family": "Sauriau",
+        "given": "Pierre-Guy"
+      },
+      {
+        "family": "Savoye",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Vantrepotte",
+        "given": "Vincent"
+      },
+      {
+        "family": "Bozec",
+        "given": "Yann"
+      },
+      {
+        "family": "Cariou",
+        "given": "Thierry"
+      },
+      {
+        "family": "Conan",
+        "given": "Pascal"
+      },
+      {
+        "family": "Coudray",
+        "given": "Sylvain"
+      },
+      {
+        "family": "Courtay",
+        "given": "Gaelle"
+      },
+      {
+        "family": "Françoise",
+        "given": "Sylvaine"
+      },
+      {
+        "family": "Goffart",
+        "given": "Anne"
+      },
+      {
+        "family": "Fariñas",
+        "given": "Tania Hernández"
+      },
+      {
+        "family": "Lemoine",
+        "given": "Maud"
+      },
+      {
+        "family": "Piraud",
+        "given": "Aude"
+      },
+      {
+        "family": "Raimbault",
+        "given": "Patrick"
+      },
+      {
+        "family": "Rétho",
+        "given": "Michael"
+      }
+    ],
+    "container-title": "Journal of Marine Science and Engineering",
+    "id": "Gohin2020",
+    "issue": "9",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          8
+        ]
+      ]
+    },
+    "page": "665",
+    "publisher": "MDPI AG",
+    "title": "Satellite and In Situ Monitoring of Chl-a, Turbidity, and Total Suspended Matter in Coastal Waters: Experience of the Year 2017 along the French Coasts",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
     "DOI": "10.3389/fmars.2020.00036",
     "URL": "https://doi.org/10.3389/fmars.2020.00036",
     "author": [
@@ -35,7 +166,7 @@
       ]
     },
     "publisher": "Frontiers Media SA",
-    "title": "Assessing alternative microscopy-based approaches to species abundance description of intertidal diatom communities",
+    "title": "Assessing Alternative Microscopy-Based Approaches to Species Abundance Description of Intertidal Diatom Communities",
     "type": "article-journal",
     "volume": "7"
   },
@@ -125,7 +256,7 @@
     },
     "page": "111343",
     "publisher": "Elsevier BV",
-    "title": "Twenty years of satellite and in situ observations of surface chlorophyll-a from the northern bay of biscay to the eastern english channel. Is the water quality improving?",
+    "title": "Twenty years of satellite and in situ observations of surface chlorophyll-a from the northern Bay of Biscay to the eastern English Channel. Is the water quality improving?",
     "type": "article-journal",
     "volume": "233"
   },
@@ -166,7 +297,7 @@
     },
     "page": "1-13",
     "publisher": "Elsevier BV",
-    "title": "Realized niche analysis of phytoplankton communities involving HAB: Phaeocystis spp. As a case study",
+    "title": "Realized niche analysis of phytoplankton communities involving HAB: Phaeocystis spp. as a case study",
     "title-short": "Realized niche analysis of phytoplankton communities involving HAB",
     "type": "article-journal",
     "volume": "72"
@@ -268,7 +399,7 @@
     },
     "page": "81-91",
     "publisher": "Elsevier BV",
-    "title": "Heterogeneous distribution in sediments and dispersal in waters of alexandrium minutum in a semi-enclosed coastal ecosystem",
+    "title": "Heterogeneous distribution in sediments and dispersal in waters of Alexandrium minutum in a semi-enclosed coastal ecosystem",
     "type": "article-journal",
     "volume": "60"
   },
@@ -309,8 +440,7 @@
     },
     "page": "26-39",
     "publisher": "Elsevier BV",
-    "title": "Two decades of pseudo-nitzschia spp. Blooms and king scallop (pecten maximus) contamination by domoic acid along the french atlantic and english channel coasts: Seasonal dynamics, spatial heterogeneity and interannual variability",
-    "title-short": "Two decades of pseudo-nitzschia spp. Blooms and king scallop (pecten maximus) contamination by domoic acid along the french atlantic and english channel coasts",
+    "title": "Two decades of Pseudo-nitzschia spp. blooms and king scallop (Pecten maximus) contamination by domoic acid along the French Atlantic and English Channel coasts: Seasonal dynamics, spatial heterogeneity and interannual variability",
     "type": "article-journal",
     "volume": "51"
   },
@@ -351,7 +481,7 @@
     },
     "page": "15-27",
     "publisher": "Elsevier BV",
-    "title": "Assessing phytoplankton realized niches using a french national phytoplankton monitoring network",
+    "title": "Assessing phytoplankton realized niches using a French national phytoplankton monitoring network",
     "type": "article-journal",
     "volume": "159"
   },
@@ -397,7 +527,7 @@
     },
     "page": "821-833",
     "publisher": "Oxford University Press (OUP)",
-    "title": "Temporal changes in the phytoplankton community along the french coast of the eastern english channel and the southern bight of the north sea",
+    "title": "Temporal changes in the phytoplankton community along the French coast of the eastern English Channel and the southern Bight of the North Sea",
     "type": "article-journal",
     "volume": "71"
   },
@@ -428,7 +558,7 @@
       ]
     },
     "page": "1-8",
-    "title": "Disponibilidad alimentaria del camarón rosado (farfantepenaeus notialis), en zonas de crı́a del golfo de ana marı́a, sureste de cuba",
+    "title": "Disponibilidad alimentaria del camarón rosado (Farfantepenaeus notialis), en zonas de crı́a del golfo de Ana Marı́a, Sureste de Cuba",
     "type": "article-journal",
     "volume": "11"
   }
