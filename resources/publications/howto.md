@@ -22,5 +22,11 @@ pandoc-citeproc --bib2json articles.bib > articles.json
 ## For ``chapters`` only
 
 ```
-pandoc-citeproc --bib2json articles.bib > articles.json
+pandoc-citeproc --bib2json chapters.bib > chapters.json
+```
+
+## For ``reports`` only
+
+```
+pandoc-citeproc --bib2json reports.bib > reports.json
 ```
