@@ -1,5 +1,63 @@
 [
   {
+    "DOI": "10.1016/j.pocean.2023.103160",
+    "ISSN": "0079-6611",
+    "URL": "http://dx.doi.org/10.1016/j.pocean.2023.103160",
+    "author": [
+      {
+        "family": "Castro de la Guardia",
+        "given": "Laura"
+      },
+      {
+        "family": "Hernández Fariñas",
+        "given": "Tania"
+      },
+      {
+        "family": "Marchese",
+        "given": "Christian"
+      },
+      {
+        "family": "Amargant-Arumí",
+        "given": "Martí"
+      },
+      {
+        "family": "Myers",
+        "given": "Paul G."
+      },
+      {
+        "family": "Bélanger",
+        "given": "Simon"
+      },
+      {
+        "family": "Assmy",
+        "given": "Philipp"
+      },
+      {
+        "family": "Gradinger",
+        "given": "Rolf"
+      },
+      {
+        "family": "Duarte",
+        "given": "Pedro"
+      }
+    ],
+    "container-title": "Progress in Oceanography",
+    "id": "CastrodelaGuardia2023",
+    "issued": {
+      "date-parts": [
+        [
+          2023,
+          12
+        ]
+      ]
+    },
+    "page": "103160",
+    "publisher": "Elsevier BV",
+    "title": "Assessing net primary production in the northwestern Barents Sea using in situ, remote sensing and modelling approaches",
+    "type": "article-journal",
+    "volume": "219"
+  },
+  {
     "DOI": "https://doi.org/10.1016/j.rse.2023.113486",
     "ISSN": "0034-4257",
     "URL": "https://www.sciencedirect.com/science/article/pii/S0034425723000378",
