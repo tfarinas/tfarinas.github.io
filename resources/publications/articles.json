@@ -1,5 +1,39 @@
 [
   {
+    "DOI": "10.3354/meps14882",
+    "ISSN": "1616-1599",
+    "URL": "http://dx.doi.org/10.3354/meps14882",
+    "author": [
+      {
+        "family": "Gangnery",
+        "given": "Aline"
+      },
+      {
+        "family": "Hernández-Fariñas",
+        "given": "Tania"
+      },
+      {
+        "family": "Pouvreau",
+        "given": "Stéphane"
+      }
+    ],
+    "container-title": "Marine Ecology Progress Series",
+    "id": "Gangnery2025",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          7
+        ]
+      ]
+    },
+    "page": "53-74",
+    "publisher": "Inter-Research Science Center",
+    "title": "Long-term monitoring data shed light on in situ feeding preferences in bivalves: a taxonomic and trait-based approach to phytoplankton",
+    "type": "article-journal",
+    "volume": "764"
+  },
+  {
     "DOI": "10.1016/j.pocean.2023.103160",
     "ISSN": "0079-6611",
     "URL": "http://dx.doi.org/10.1016/j.pocean.2023.103160",
